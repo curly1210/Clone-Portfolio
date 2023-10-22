@@ -47,6 +47,7 @@ header .content p {
 
 header .image {
   position: relative;
+  margin: 0 auto;
 }
 
 header .image::before {
